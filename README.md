@@ -1,5 +1,5 @@
 # Where-is-Waldo
-This is a project that Leah (https://github.com/lgaetano) and I tackled during our mini-hackaton in our Convolutional Neural Networks class in December 2019: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome
+This is a project that Lia (https://github.com/lgaetano) and I tackled during our mini-hackaton in our Convolutional Neural Networks class in December 2019: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome
 
 We wanted to build a machine learning model that would find Waldo in given images.
 
